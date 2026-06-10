@@ -1,0 +1,18 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# Environments
+venv/
+env/
+.env
+.venv
+
+# OS files
+.DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
